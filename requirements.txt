@@ -1,0 +1,8 @@
+crewai
+crewai[tools]
+litellm
+xhtml2pdf
+gradio
+weasyprint 
+crewai[google-genai]
+google-generativeai
